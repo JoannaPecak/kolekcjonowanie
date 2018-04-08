@@ -51,7 +51,6 @@ public class Przypinka {
         return numerKatalogowy;
     }
 
-    }
 
     public String getOpis() {
         return opis;
